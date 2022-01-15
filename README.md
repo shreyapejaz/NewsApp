@@ -4,7 +4,7 @@ Example:\
 cd ./src\
 touch apikey.js\
 --Go to apikey.js file--\
-const apiKey = "<ENTER YOUR newsapi API KEY here>";\
+const apiKey = ENTER YOUR newsapi API KEY;\
 export default apiKey;
 
 # Getting Started with Create React App
