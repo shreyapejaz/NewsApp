@@ -1,10 +1,10 @@
 ## IMPORTANT
-Add an apikey.js file in the src folder and export the apiKey variable
-Example: 
-cd ./src
-touch apikey.js
---Go to apikey.js file--
-const apiKey = "<ENTER YOUR newsapi API KEY here>";
+Add an apikey.js file in the src folder and export the apiKey variable\
+Example:\
+cd ./src\
+touch apikey.js\
+--Go to apikey.js file--\
+const apiKey = "<ENTER YOUR newsapi API KEY here>";\
 export default apiKey;
 
 # Getting Started with Create React App
