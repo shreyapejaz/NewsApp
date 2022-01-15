@@ -1,0 +1,32 @@
+
+.data{
+    background-color:#FBF6EE ;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    font-size: 15px;
+    padding: 5px;
+    margin: 0.4%;
+    width:24%;
+    max-height: 25%;
+    box-sizing: border-box;
+    transition: width 0.1s;
+    justify-content: space-evenly;
+}
+.data:hover{
+    width:24.3%
+}
+li{
+    list-style-type: none;
+}
+.data p{
+    padding: 1px;
+    margin: inherit;
+}
+.favourite{
+    display: block;
+    background-color: #e2dbd1;
+    border-radius: 5px;
+  }
+  .favourite:hover{
+    background-color: #faf8f5 ;
+  }

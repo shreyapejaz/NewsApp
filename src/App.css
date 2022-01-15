@@ -1,0 +1,29 @@
+.header {
+  text-align: center;
+  font-weight: 800;
+  font-size: 40px;
+  color: gray;
+  border-bottom: 3px solid darkgray;
+  border-top: 3px solid darkgray;
+  padding: 15px 15px;
+  font-family: fantasy;
+  background-color: #dbd5c9;
+  text-shadow: 2px 2px rgb(46, 45, 45);
+}
+.subheader li {
+  font-weight: bold;
+  list-style-type: none;
+  color: #333;
+  font-size: 16px;
+  padding: 5px 5px;
+}
+.margin {
+  margin: 2px 2px;
+}
+.subheader {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  border-bottom: 3px solid darkgray;
+  background-color: #e2dbd1;
+}

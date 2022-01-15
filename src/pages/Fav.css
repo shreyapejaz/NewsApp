@@ -1,0 +1,10 @@
+.favourites{
+    display: block;
+    background-color: #e2dbd1;
+    border-radius: 5px;
+    color: black;
+    margin: 3px;
+  }
+  .favourites:hover{
+    background-color: #faf8f5 ;
+  }
